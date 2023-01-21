@@ -1,0 +1,2 @@
+# handwritten-digits-recognition-with-tensorflow
+Neural networks are very powerful and it can solve many complex problems. Even with a simple neural networks, we could solve problems more accurately compared to the traditional learning algorithms. Here, in this repository I've built a simple neural networks and aim to predict handwritten digits from the public datasets mnist. Model was able to achieve 89.1% true predictions from test data.
